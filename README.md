@@ -1,4 +1,4 @@
-SUS
+SUo
 ===
 
-SUS "Semantic-UI Semantic" focuses on the semantically consistent representation of web user interface.
+SUo "Semantic-UI Ontology" focuses on the semantically consistent representation of web user interface.
